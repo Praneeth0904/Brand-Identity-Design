@@ -66,15 +66,15 @@ The identity needed to feel both **classic and contemporary**, reflecting the en
 
 | Cover Page                 |
 | -------------------------- |
-| ![Cover](<img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/29ebc0d5-1539-4a24-822e-5256ff1a2a87" />) |
+| ![Cover](assets/Coverphoto.png) |
 
 | Logo Construction                     | Color Palette                        |
 | ------------------------------------- | ------------------------------------ |
-| ![Logo](assets/logo-construction.png) | ![Palette](assets/color-palette.png) |
+| ![Logo](assets/Branding.png) | ![Palette](assets/Colors.png) |
 
 | Typography                           | Mockups                        |
 | ------------------------------------ | ------------------------------ |
-| ![Typography](assets/typography.png) | ![Mockups](assets/mockups.png) |
+| ![Typography](assets/Typography.png) | ![Mockups](assets/mockups.png) |
 
 ---
 
