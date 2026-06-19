@@ -54,15 +54,7 @@ The identity needed to feel both **classic and contemporary**, reflecting the en
 
 # 🖼️ Project Showcase
 
-> Replace the image paths below with exported Figma screens.
 
-```md
-/assets/cover.png
-/assets/logo-construction.png
-/assets/color-palette.png
-/assets/typography.png
-/assets/mockups.png
-```
 
 | Cover Page                 |
 | -------------------------- |
@@ -82,7 +74,7 @@ The identity needed to feel both **classic and contemporary**, reflecting the en
 
 | Mockups                        |
 |  ------------------------------ |
- ![Mockups](assets/Mockups.png) |
+| ![Mockups](assets/Mockups.png) |
 ---
 
 # 🎯 Design Brief
@@ -217,6 +209,8 @@ The visual identity uses a vibrant and energetic palette that reflects creativit
 
 ### ❤️ Vivid Red Pink
 
+ <img width="856" height="240" alt="Image" src="https://github.com/user-attachments/assets/a08a6667-ea7d-406c-9e93-5645e5a898c6" /> 
+
 ```css
 HEX: #D6285A
 RGB: 214, 40, 90
@@ -231,6 +225,8 @@ Represents:
 ---
 
 ### 🧡 Bright Orange
+
+<img width="856" height="240" alt="Image" src="https://github.com/user-attachments/assets/05cac21d-ff92-4474-b102-f4a54b5e5c9c" />
 
 ```css
 HEX: #E26C2F
@@ -247,6 +243,8 @@ Represents:
 
 ### 🖤 Chinese Black
 
+<img width="856" height="240" alt="Image" src="https://github.com/user-attachments/assets/e252a1bb-ea92-44e3-8025-56695939ab8f" />
+
 ```css
 HEX: #0B0B0B
 RGB: 11, 11, 11
@@ -261,6 +259,8 @@ Represents:
 ---
 
 ### 🤍 White
+
+<img width="856" height="240" alt="Image" src="https://github.com/user-attachments/assets/daf06581-2143-4606-b69a-7fb4325850e4" />
 
 ```css
 HEX: #FFFFFF
@@ -334,43 +334,16 @@ Weight: 400
 # 🏷️ Logo Variations
 
 To ensure flexibility across platforms, multiple logo versions were created.
+<img width="856" height="810" alt="Image" src="https://github.com/user-attachments/assets/4f28a5b5-57de-43c3-9fbb-4056ac74d1e5" />
 
-### Primary Logo
+|  Primary Logo        |  Secondary Logo           |  Monochrome Version           |  Reverse Version |
+|----------------------|---------------------------|-------------------------------|---------------------|
+| Used for:            | Used for:                 | Used for:                     | Used for:           |
+|  Website             |  Compact spaces           |  Print materials              |  Dark backgrounds  |
+|  Social Media        |  Merchandise              |  Single-color applications    |  Promotional assets |
+|  Marketing Materials |  Mobile interfaces        |  Embossing |
 
-Used for:
 
-* Website
-* Social Media
-* Marketing Materials
-
----
-
-### Secondary Logo
-
-Used for:
-
-* Compact spaces
-* Merchandise
-* Mobile interfaces
-
----
-
-### Monochrome Version
-
-Used for:
-
-* Print materials
-* Single-color applications
-* Embossing
-
----
-
-### Reverse Version
-
-Used on:
-
-* Dark backgrounds
-* Promotional assets
 
 ---
 
@@ -427,7 +400,7 @@ Applications include:
 
 The branding system was applied to:
 
-🎵 Vinyl Record Covers
+🎵 Vinyl Record Covers 
 
 🛍️ Tote Bags
 
@@ -522,8 +495,7 @@ This project strengthened my understanding of:
 | Tool                      | Purpose                  |
 | ------------------------- | ------------------------ |
 | Figma                     | Design & Documentation   |
-| Adobe Photoshop           | Mockup Creation          |
-| Brand Strategy Frameworks | Brand Development        |
+| Canva                     | Mockup Creation          |
 | Color Theory              | Visual Identity Planning |
 
 ---
