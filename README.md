@@ -68,14 +68,21 @@ The identity needed to feel both **classic and contemporary**, reflecting the en
 | -------------------------- |
 | ![Cover](assets/Coverphoto.png) |
 
-| Logo Construction                     | Color Palette                        |
-| ------------------------------------- | ------------------------------------ |
-| ![Logo](assets/Branding.png) | ![Palette](assets/Colors.png) |
+| Logo Construction             |
+| ----------------------------- | 
+| ![Logo](assets/Branding.png) |
 
-| Typography                           | Mockups                        |
-| ------------------------------------ | ------------------------------ |
-| ![Typography](assets/Typography.png) | ![Mockups](assets/Mockups.png) |
+|  Color Palette                        |
+|------------------------------------ |
+| ![Palette](assets/Colors.png) |
 
+| Typography                           |
+| ------------------------------------ |
+| ![Typography](assets/Typography.png) |
+
+| Mockups                        |
+|  ------------------------------ |
+ ![Mockups](assets/Mockups.png) |
 ---
 
 # 🎯 Design Brief
