@@ -334,10 +334,10 @@ Weight: 400
 # 🏷️ Logo Variations
 
 To ensure flexibility across platforms, multiple logo versions were created.
-<img width="856" height="810" alt="Image" src="https://github.com/user-attachments/assets/4f28a5b5-57de-43c3-9fbb-4056ac74d1e5" />
 
 |  Primary Logo        |  Secondary Logo           |  Monochrome Version           |  Reverse Version |
 |----------------------|---------------------------|-------------------------------|---------------------|
+|<img width="328" height="328" alt="Image" src="https://github.com/user-attachments/assets/ff5d1e2f-719c-4c53-93e6-65b86e00b6f9" />|<img width="328" height="328" alt="Image" src="https://github.com/user-attachments/assets/1e5f839f-7e28-411a-961b-e26563cf9132" />|<img width="328" height="328" alt="Image" src="https://github.com/user-attachments/assets/8ca29927-b878-4d30-a90f-249103c5f687" />|<img width="328" height="328" alt="Image" src="https://github.com/user-attachments/assets/80e1c4b5-c17e-4cd7-9fe4-a71dfbc0ea88" />|
 | Used for:            | Used for:                 | Used for:                     | Used for:           |
 |  Website             |  Compact spaces           |  Print materials              |  Dark backgrounds  |
 |  Social Media        |  Merchandise              |  Single-color applications    |  Promotional assets |
