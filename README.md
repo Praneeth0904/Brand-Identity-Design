@@ -74,7 +74,7 @@ The identity needed to feel both **classic and contemporary**, reflecting the en
 
 | Typography                           | Mockups                        |
 | ------------------------------------ | ------------------------------ |
-| ![Typography](assets/Typography.png) | ![Mockups](assets/mockups.png) |
+| ![Typography](assets/Typography.png) | ![Mockups](assets/Mockups.png) |
 
 ---
 
